@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# My test Carpentry lesson
 
-FIXME
+CarpentryCon 2018 workshop
 
 ## Contributing
 
@@ -15,7 +15,7 @@ and have a look at the [more detailed guidelines][lesson-example] on proper form
 
 ## Maintainer(s)
 
-* FIXME
+* me
 
 ## Authors
 
