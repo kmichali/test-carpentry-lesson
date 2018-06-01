@@ -23,8 +23,36 @@ This is a list, `-`,`+` or `*`.
 - orange
 - banana
 
+To use numbered lists, use number followed by a dot. You don't have to worry about numbering, just use 1, it will render.
+
+1. SC
+1. DC
+1. LC
+
+Nested lists.
+For example.
+- food
+  - rice
+  - peas
+  - chicken
+- drink
+  - water
+
 To make a paragraph, 
 
 use empty line.
+
+
+Bold letters.
+
+**this is important**
+
+Italics.
+
+*this is also important*
+
+For preformated text, use backticks.
+
+`preformated`
 
 {% include links.md %}
