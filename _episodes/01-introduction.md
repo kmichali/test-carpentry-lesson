@@ -18,8 +18,8 @@ keypoints:
 
 Markdown is a markup language that is very popular on the web.
 
--apple
--orange
--banana
+- apple
+- orange
+- banana
 
 {% include links.md %}
