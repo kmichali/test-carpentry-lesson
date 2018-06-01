@@ -50,3 +50,24 @@ Missing element after comma.
 ~~~
 {: .error}
 
+
+```{r}
+x <- 4
+```
+
+Code block inside an exercise
+
+> ## Exercise 1
+> 
+> R code block inside exercise
+> 
+> > ## Solution
+> >
+> > ```{r}
+> > x <- 1
+> > y <- 1
+> >  x + y
+> > ```
+> >
+> {: .solution}
+{: .challenge}
