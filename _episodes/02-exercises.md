@@ -20,7 +20,7 @@ This is my first exercise.
 > 
 > List of elements you need inside an exercise
 > to comply with the Carpentries style.
-> ## Solution
+> > ## Solution
 > >
 > > Exercise solution are inside `>` block and each block must have 
 > >
