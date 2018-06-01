@@ -66,7 +66,7 @@ Code block inside an exercise
 > > ```{r}
 > > x <- 1
 > > y <- 1
-> >  x + y
+> > x + y
 > > ```
 > >
 > {: .solution}
