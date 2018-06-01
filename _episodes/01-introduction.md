@@ -7,9 +7,9 @@ questions:
 - "How do I create a list?"
 - "How do I instert a figure?"
 objectives:
-- "Know what Markdown is"
-- "Know how to instert lists"
-- "Know how instert figures"
+- "Know what Markdown is."
+- "Know how to instert lists."
+- "Know how instert figures."
 keypoints:
 - "Markdown is a markup language that can be converted to HTML."
 - "Use `-` to start a list"
@@ -17,9 +17,14 @@ keypoints:
 ---
 
 Markdown is a markup language that is very popular on the web.
+This is a list, `-`,`+` or `*`.
 
 - apple
 - orange
 - banana
+
+To make a paragraph, 
+
+use empty line.
 
 {% include links.md %}
