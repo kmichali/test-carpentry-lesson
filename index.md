@@ -5,7 +5,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 ---
 <!-- FIXME: home page introduction -->
 
-Making a lesson lesson.  This is test.
+Making a lesson lesson.  This is a test.
 
 > ## Prerequisites
 >
