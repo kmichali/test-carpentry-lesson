@@ -29,3 +29,24 @@ This is my first exercise.
 > > - solution to exercise
 > {: .solution}
 {: .challenge}
+
+~~~
+print("Hello SC!")
+~~~
+{: .language-python}
+
+~~~
+x <- 4
+~~~
+{: .language-r}
+
+~~~
+Hello SC instructors!
+~~~
+{: .output}
+
+~~~
+Missing element after comma.
+~~~
+{: .error}
+
