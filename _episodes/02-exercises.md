@@ -1,5 +1,5 @@
 ---
-title: "Introduction to making a lesson"
+title: "Exercises"
 teaching: 20
 exercises: 10
 questions:
