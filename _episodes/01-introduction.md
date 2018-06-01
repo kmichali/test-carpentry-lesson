@@ -55,4 +55,24 @@ For preformated text, use backticks.
 
 `preformated`
 
+
+You can have multi-line items.
+For multi-line items, all lines must begin at the same column.
+- Feedback 1
+
+  CarpentryCon 2018 has been great so far.
+  
+- Feedback 2
+  
+  Dinner was nice but warm
+ 
+- Feeback 3
+
+  Three days is not enough to meet everyone.
+  
+  
+If you want to use star a star character, use backslash
+\*
+
+  
 {% include links.md %}
