@@ -17,6 +17,13 @@ keypoints:
 ---
 
 Markdown is a markup language that is very popular on the web.
+
+Titles are done with `#`.
+
+# title
+## title
+### title
+
 This is a list, `-`,`+` or `*`.
 
 - apple
